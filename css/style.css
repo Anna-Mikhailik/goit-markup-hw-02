@@ -136,11 +136,10 @@ color: #434455;
 
 .hero-btn:hover,
 .hero-btn:focus {
-    background-color: #404BBF;
+background-color: #404BBF;
 }
 
 
-}
 /*-------------------hero---------------------*/
 
 
@@ -148,11 +147,11 @@ color: #434455;
 
 
 .box {
-    background: #f4f4fd;
+background-color: #F4F4FD;
 }
 
 .box-title {
-    font-family: "Roboto", sans-serif;
+font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
 text-transform: capitalize;
@@ -165,7 +164,7 @@ color: #2e2f42;
 }
 
 .box-subtitle {
-    font-family: "Roboto", sans-serif;
+font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
 
@@ -187,6 +186,7 @@ color: #2e2f42;
     text-align: center;
     color: #434455;
 }
+
 .box-list {
     background-color: #FFFFFF;
 }
@@ -196,7 +196,7 @@ color: #2e2f42;
 
 /*-------------------card---------------------*/
 .card-title {
-    font-family: "Roboto", sans-serif;
+font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
 

@@ -53,6 +53,18 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
+.header-con {
+    font-style: normal;
+}
+
+.header-menu-link:focus,
+.header-menu-link:hover,
+.header-con-link:focus,
+.header-con-link:hover {
+    color:#404bbf;
+}
+
+
 /*-------------------header---------------------*/
 
 
